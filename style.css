@@ -1,26 +1,26 @@
 body{
-    background: #fbb1bd;
-}
-main {
-    text-align: center; 
-   
-}
-#slogan{
-    font-size: 25px;
-}
-
-.capa{
-    width: 50%;
-    height: 100%;
-}
-.conteudo{
-    background: #ffccd5;
-}
-.beneficios{
-    background-color: #f991a2;
-}
-.foto-beneficios{
-    width: 30%;
-    height: 50%;
-}
-g 
+    text-align:center;
+      background: #48cae4;
+  }
+  .capa{
+  
+    width: 100%;
+  }
+  .beneficios{
+    text-align: left;
+    background-color: rgb(rgb(14, 219, 238), green, blue);
+    display: inline-block;
+  }
+  ul{
+   display: inline-block;
+   vertical-align: top;
+   font-size: 26px;
+   margin-right: 100px;
+  }
+  li{
+    padding: 25px;
+  }
+  .foto{
+    width: 40%;
+  }
+  
